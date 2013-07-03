@@ -5,11 +5,36 @@
 <!--<arg name="use_nodelets" default="0"/>-->
 
 	<include file="$(find ws_referee)/launch/start.launch"/>
-	<include file="$(find ws_mike)/launch/start.launch"/>
-	<include file="$(find ws_gh)/launch/start.launch"/>
-	<include file="$(find ws_hamid)/launch/start.launch"/>
-	<include file="$(find ws_vahid)/launch/start.launch"/>
-	<include file="$(find ws_paulo)/launch/start.launch"/>
-	<include file="$(find ws_aneesh)/launch/start.launch"/>
+
+	<include file="$(find ws_mike)/launch/start.launch">
+		<arg name="player_in" value="ws_m" />
+		<arg name="player_out" value="ws_g" />
+	</include>
+
+	<include file="$(find ws_gh)/launch/start.launch">
+		<arg name="player_in" value="ws_g" />
+		<arg name="player_out" value="ws_h" />
+	</include>
+
+	<include file="$(find ws_hamid)/launch/start.launch">
+		<arg name="player_in" value="ws_h" />
+		<arg name="player_out" value="ws_v" />
+	</include>
+
+	<include file="$(find ws_vahid)/launch/start.launch">
+		<arg name="player_in" value="ws_v" />
+		<arg name="player_out" value="ws_p" />
+	</include>
+
+	<include file="$(find ws_paulo)/launch/start.launch">
+		<arg name="player_in" value="ws_p" />
+		<arg name="player_out" value="ws_a" />
+	</include>
+
+	<include file="$(find ws_aneesh)/launch/start.launch">
+		<arg name="player_in" value="ws_a" />
+		<arg name="player_out" value="ws_m" />
+	</include>
+
 
 </launch>
