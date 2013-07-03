@@ -10,8 +10,10 @@ void init_randomization_seed()
 }
 
 //Returns a random number between integers [n1, n2]
-double get_random_num(double n1, double n2)
+double get_random_num()
 {
+double n1 = 0;
+double n2=0.1;
 	//get random number between 0 and 1
 	double r = ((double)rand()/((double)(RAND_MAX)+(double)(1)) );
 

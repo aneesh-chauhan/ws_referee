@@ -3,6 +3,6 @@
 
 void init_randomization_seed();
 
-double get_random_num(double n1, double n2);
+double get_random_num();
 
 #endif
