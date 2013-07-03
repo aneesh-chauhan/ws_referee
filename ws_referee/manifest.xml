@@ -10,7 +10,9 @@
   <url>http://ros.org/wiki/ws_referee</url>
   <depend package="roscpp"/>
   <depend package="std_msgs"/>
-
+	<export>
+    	<cpp cflags="-I${prefix}/include " lflags="-L${prefix}/lib -lrandomize" />
+	</export>
 </package>
 
 

@@ -28,3 +28,5 @@ rosbuild_genmsg()
 #rosbuild_link_boost(${PROJECT_NAME} thread)
 rosbuild_add_executable(ws_referee src/main.cpp)
 #target_link_libraries(example ${PROJECT_NAME})
+
+rosbuild_add_library(randomize src/randomize.cpp)
