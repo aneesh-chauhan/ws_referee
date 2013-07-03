@@ -1,0 +1,31 @@
+Axes.Enabled=1
+Axes.Length=1
+Axes.Radius=0.1
+Axes.Reference\ Frame=<Fixed Frame>
+Background\ ColorB=1
+Background\ ColorG=1
+Background\ ColorR=1
+Camera\ Config=0.507794 2.7458 7.19324 0 -1.90735e-06 1.90735e-06
+Camera\ Type=rviz::OrbitViewController
+Fixed\ Frame=/world
+Marker.=1
+Marker.Enabled=1
+Marker.Marker\ Topic=/mike_marker
+Marker.Queue\ Size=100
+Property\ Grid\ Splitter=410,78
+Property\ Grid\ State=expanded=.Global Options,Marker.Enabled,Marker.Namespaces,Axes.Enabled;splitterratio=0.5
+QMainWindow=000000ff00000000fd00000003000000000000011d0000023afc0200000001fb000000100044006900730070006c00610079007301000000360000023a000000ee00ffffff00000001000001310000023afc0200000003fb0000001e0054006f006f006c002000500072006f00700065007200740069006500730000000036000000920000006700fffffffb0000000a0056006900650077007300000000360000016c000000bb00fffffffb0000001200530065006c0065006300740069006f006e00000000360000023a0000006700ffffff00000003000004000000003efc0100000001fb0000000800540069006d0065010000000000000400000002bf00ffffff000002dd0000023a00000004000000040000000800000008fc0000000100000002000000010000000a0054006f006f006c00730100000000ffffffff0000000000000000
+Target\ Frame=<Fixed Frame>
+Tool\ 2D\ Nav\ GoalTopic=/move_base_simple/goal
+Tool\ 2D\ Pose\ EstimateTopic=initialpose
+[Display0]
+ClassName=rviz::MarkerDisplay
+Name=Marker
+[Display1]
+ClassName=rviz::AxesDisplay
+Name=Axes
+[Window]
+Height=720
+Width=1024
+X=0
+Y=0

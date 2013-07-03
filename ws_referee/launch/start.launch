@@ -4,5 +4,8 @@
     <node pkg="ws_referee" type="ws_referee" name="referee" output="screen" required="false">
         <remap from="player_out" to="$(arg player_out)"/>
     </node>
+
+	<node name="rviz" pkg="rviz" type="rviz" args="--display-config $(find ws_referee)/config/config.vcg">
+    </node>
 </launch>
 
