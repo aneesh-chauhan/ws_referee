@@ -2,7 +2,7 @@
 #include "std_msgs/String.h"
 
 #include <sstream>
-
+#include <ws_referee/custom.h>
 
 std::string _name="Refree";
 
@@ -18,10 +18,15 @@ int main(int argc, char **argv)
 	 */
 	ros::NodeHandle n;
 
-	ros::Publisher pub = n.advertise<std_msgs::String>("player_out", 1);
+	ros::Publisher pub = n.advertise<ws_referee::custom>("player_out", 1);
 
-	std_msgs::String msg_out;
-	msg_out.data = "hello world";
+	ws_referee::custom msg_out;
+	//std_msgs::String msg_out;
+	//msg_out.data = "hello world";
+
+	msg_out.dist = 0.0;
+	msg_out.sender = "referee";
+	msg_out.winner = "";
 
 	ros::Rate loop_rate(0.5);
 	ros::spinOnce();
@@ -31,6 +36,8 @@ int main(int argc, char **argv)
 
 	ROS_INFO("%s will publish a msg\n", _name.c_str());
 	pub.publish(msg_out);
+
+	loop_rate.sleep();
 
 	return 0;
 }
