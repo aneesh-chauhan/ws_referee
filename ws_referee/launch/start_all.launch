@@ -23,13 +23,13 @@
 
 	<include file="$(find ws_vahid)/launch/start.launch">
 		<arg name="player_in" value="ws_v" />
-		<arg name="player_out" value="ws_p" />
-	</include>
-
-	<include file="$(find ws_paulo)/launch/start.launch">
-		<arg name="player_in" value="ws_p" />
 		<arg name="player_out" value="ws_a" />
 	</include>
+
+	<!--<include file="$(find ws_paulo)/launch/start.launch">-->
+		<!--<arg name="player_in" value="ws_p" />-->
+		<!--<arg name="player_out" value="ws_a" />-->
+	<!--</include>-->
 
 	<include file="$(find ws_aneesh)/launch/start.launch">
 		<arg name="player_in" value="ws_a" />
