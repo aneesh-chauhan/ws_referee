@@ -17,7 +17,7 @@ bool is_in_field(double _pos_x, double _pos_y)
 
 bool crossed_finish_line(double _pos_x, double _pos_y)
 {
-	if !is_in_field(_pos_x, _pos_y)
+	if (!is_in_field(_pos_x, _pos_y))
 		return false;
 
 	if ((_pos_x> 5 ))
