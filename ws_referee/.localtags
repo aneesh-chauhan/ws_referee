@@ -1,0 +1,311 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+<custom>	msg_gen/lisp/custom.lisp	/^(cl:defclass <custom> (roslisp-msg-protocol:ros-message)$/;"	f
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	193;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	196;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	199;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	202;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	206;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	181;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	184;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	187;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	190;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	194;"	d	file:
+CMAKE_BINARY_DIR	build/Makefile	/^CMAKE_BINARY_DIR = \/home\/mike\/workingcopy\/tmp\/ws_referee\/ws_referee\/build$/;"	m
+CMAKE_COMMAND	build/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	build/Makefile	/^CMAKE_SOURCE_DIR = \/home\/mike\/workingcopy\/tmp\/ws_referee\/ws_referee$/;"	m
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	10;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	13;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	16;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	19;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	22;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	25;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	28;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	32;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	34;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	36;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	40;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	43;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	46;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	49;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	52;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	55;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	58;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	61;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	66;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	77;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	80;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	86;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	89;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	92;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	12;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	18;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	30;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	34;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	36;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	38;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	42;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	45;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	48;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	51;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	54;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	57;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	60;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	68;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	74;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	77;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	80;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	9;"	d	file:
+ConstPtr	msg_gen/cpp/include/ws_referee/custom.h	/^  typedef boost::shared_ptr< ::ws_referee::custom_<ContainerAllocator>  const> ConstPtr;$/;"	t	struct:ws_referee::custom_	access:public
+DataType	msg_gen/cpp/include/ws_referee/custom.h	/^struct DataType< ::ws_referee::custom_<ContainerAllocator> > {$/;"	s	namespace:ros::message_traits
+Definition	msg_gen/cpp/include/ws_referee/custom.h	/^struct Definition< ::ws_referee::custom_<ContainerAllocator> > {$/;"	s	namespace:ros::message_traits
+HasHeader	msg_gen/cpp/include/ws_referee/custom.h	/^template<class ContainerAllocator> struct HasHeader< ::ws_referee::custom_<ContainerAllocator> > : public TrueType {};$/;"	s	namespace:ros::message_traits	inherits:TrueType
+HasHeader	msg_gen/cpp/include/ws_referee/custom.h	/^template<class ContainerAllocator> struct HasHeader< const ::ws_referee::custom_<ContainerAllocator> > : public TrueType {};$/;"	s	namespace:ros::message_traits	inherits:TrueType
+ID_VOID_MAIN	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	6;"	d	file:
+IsMessage	msg_gen/cpp/include/ws_referee/custom.h	/^template<class ContainerAllocator> struct IsMessage< ::ws_referee::custom_<ContainerAllocator>  const> : public TrueType {};$/;"	s	namespace:ros::message_traits	inherits:TrueType
+IsMessage	msg_gen/cpp/include/ws_referee/custom.h	/^template<class ContainerAllocator> struct IsMessage< ::ws_referee::custom_<ContainerAllocator> > : public TrueType {};$/;"	s	namespace:ros::message_traits	inherits:TrueType
+MD5Sum	msg_gen/cpp/include/ws_referee/custom.h	/^struct MD5Sum< ::ws_referee::custom_<ContainerAllocator> > {$/;"	s	namespace:ros::message_traits
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	104;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	107;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	110;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	113;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	116;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	119;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	122;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	125;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	128;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	131;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	134;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	137;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	140;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	146;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	149;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	152;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	155;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	158;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	161;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	164;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	167;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	170;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	173;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	176;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	179;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	182;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	101;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	107;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	110;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	113;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	116;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	128;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	134;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	140;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	143;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	149;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	152;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	155;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	158;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	161;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	164;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	170;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	92;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	95;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+Printer	msg_gen/cpp/include/ws_referee/custom.h	/^struct Printer< ::ws_referee::custom_<ContainerAllocator> >$/;"	s	namespace:ros::message_operations
+Ptr	msg_gen/cpp/include/ws_referee/custom.h	/^  typedef boost::shared_ptr< ::ws_referee::custom_<ContainerAllocator> > Ptr;$/;"	t	struct:ws_referee::custom_	access:public
+RANDOMIZE_H	include/ws_referee/randomize.h	2;"	d
+RM	build/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+ROS_DECLARE_ALLINONE_SERIALIZER	msg_gen/cpp/include/ws_referee/custom.h	/^  ROS_DECLARE_ALLINONE_SERIALIZER;$/;"	m	struct:ros::serialization::Serializer	access:public
+SHELL	build/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SUFFIXES	build/Makefile	/^SUFFIXES =$/;"	m
+Serializer	msg_gen/cpp/include/ws_referee/custom.h	/^template<class ContainerAllocator> struct Serializer< ::ws_referee::custom_<ContainerAllocator> >$/;"	s	namespace:ros::serialization
+Type	msg_gen/cpp/include/ws_referee/custom.h	/^  typedef custom_<ContainerAllocator> Type;$/;"	t	struct:ws_referee::custom_	access:public
+WS_REFEREE_MESSAGE_CUSTOM_H	msg_gen/cpp/include/ws_referee/custom.h	3;"	d
+__connection_header	msg_gen/cpp/include/ws_referee/custom.h	/^  boost::shared_ptr<std::map<std::string, std::string> > __connection_header;$/;"	m	struct:ws_referee::custom_	access:public
+__init__	src/ws_referee/msg/_custom.py	/^  def __init__(self, *args, **kwds):$/;"	f	access:public
+__slots__	src/ws_referee/msg/_custom.py	/^  __slots__ = ['header','winner','sender','dist']$/;"	v
+_dist_type	msg_gen/cpp/include/ws_referee/custom.h	/^  typedef float _dist_type;$/;"	t	struct:ws_referee::custom_	access:public
+_get_types	src/ws_referee/msg/_custom.py	/^  def _get_types(self):$/;"	f	access:public
+_has_header	src/ws_referee/msg/_custom.py	/^  _has_header = True #flag to mark the presence of a Header object$/;"	v	class:custom
+_header_type	msg_gen/cpp/include/ws_referee/custom.h	/^  typedef  ::std_msgs::Header_<ContainerAllocator>  _header_type;$/;"	t	struct:ws_referee::custom_	access:public
+_md5sum	src/ws_referee/msg/_custom.py	/^  _md5sum = "a274b20521f839a68edcb192a8ad2a15"$/;"	v	class:custom
+_name	src/main.cpp	/^std::string _name="Refree";$/;"	v
+_name	ws_referee/src/main.cpp	/^std::string _name="Refree";$/;"	v
+_sender_type	msg_gen/cpp/include/ws_referee/custom.h	/^  typedef std::basic_string<char, std::char_traits<char>, typename ContainerAllocator::template rebind<char>::other >  _sender_type;$/;"	t	struct:ws_referee::custom_	access:public
+_slot_types	src/ws_referee/msg/_custom.py	/^  _slot_types = ['std_msgs\/Header','string','string','float32']$/;"	v
+_struct_3I	src/ws_referee/msg/_custom.py	/^_struct_3I = struct.Struct("<3I")$/;"	v
+_struct_I	src/ws_referee/msg/_custom.py	/^_struct_I = genpy.struct_I$/;"	v
+_struct_f	src/ws_referee/msg/_custom.py	/^_struct_f = struct.Struct("<f")$/;"	v
+_type	src/ws_referee/msg/_custom.py	/^  _type = "ws_referee\/custom"$/;"	v	class:custom
+_winner_type	msg_gen/cpp/include/ws_referee/custom.h	/^  typedef std::basic_string<char, std::char_traits<char>, typename ContainerAllocator::template rebind<char>::other >  _winner_type;$/;"	t	struct:ws_referee::custom_	access:public
+allInOne	msg_gen/cpp/include/ws_referee/custom.h	/^  template<typename Stream, typename T> inline static void allInOne(Stream& stream, T m)$/;"	f	struct:ros::serialization::Serializer	access:public	signature:(Stream& stream, T m)
+cl:initialize-instance	msg_gen/lisp/custom.lisp	/^(cl:defmethod cl:initialize-instance :after ((m <custom>) cl:&rest args)$/;"	f
+custom	msg_gen/cpp/include/ws_referee/custom.h	/^typedef  ::ws_referee::custom_<std::allocator<void> > custom;$/;"	t	namespace:ws_referee
+custom	msg_gen/lisp/custom.lisp	/^(cl:defclass custom (<custom>)$/;"	f
+custom	src/ws_referee/msg/_custom.py	/^class custom(genpy.Message):$/;"	c	inherits:genpy.Message
+customConstPtr	msg_gen/cpp/include/ws_referee/custom.h	/^typedef boost::shared_ptr< ::ws_referee::custom const> customConstPtr;$/;"	t	namespace:ws_referee
+customPtr	msg_gen/cpp/include/ws_referee/custom.h	/^typedef boost::shared_ptr< ::ws_referee::custom> customPtr;$/;"	t	namespace:ws_referee
+custom_	msg_gen/cpp/include/ws_referee/custom.h	/^  custom_()$/;"	f	struct:ws_referee::custom_	access:public	signature:()
+custom_	msg_gen/cpp/include/ws_referee/custom.h	/^  custom_(const ContainerAllocator& _alloc)$/;"	f	struct:ws_referee::custom_	access:public	signature:(const ContainerAllocator& _alloc)
+custom_	msg_gen/cpp/include/ws_referee/custom.h	/^struct custom_ {$/;"	s	namespace:ws_referee
+deserialize	src/ws_referee/msg/_custom.py	/^  def deserialize(self, str):$/;"	f	access:public
+deserialize_numpy	src/ws_referee/msg/_custom.py	/^  def deserialize_numpy(self, str, numpy):$/;"	f	access:public
+dist	msg_gen/cpp/include/ws_referee/custom.h	/^  float dist;$/;"	m	struct:ws_referee::custom_	access:public
+dist-val	msg_gen/lisp/custom.lisp	/^(cl:defmethod dist-val ((m <custom>))$/;"	f
+endl	msg_gen/cpp/include/ws_referee/custom.h	/^s << std::endl;$/;"	m	class:ros::message_operations::Printer::std
+get_random_num	include/ws_referee/randomize.h	/^double get_random_num();$/;"	p	signature:()
+get_random_num	src/randomize.cpp	/^double get_random_num()$/;"	f	signature:()
+header	msg_gen/cpp/include/ws_referee/custom.h	/^   ::std_msgs::Header_<ContainerAllocator>  header;$/;"	m	struct:ws_referee::custom_	access:public
+header-val	msg_gen/lisp/custom.lisp	/^(cl:defmethod header-val ((m <custom>))$/;"	f
+indent	msg_gen/cpp/include/ws_referee/custom.h	/^    s << indent << "dist: ";$/;"	l
+indent	msg_gen/cpp/include/ws_referee/custom.h	/^    s << indent << "header: ";$/;"	l
+indent	msg_gen/cpp/include/ws_referee/custom.h	/^    s << indent << "sender: ";$/;"	l
+indent	msg_gen/cpp/include/ws_referee/custom.h	/^    s << indent << "winner: ";$/;"	l
+info_arch	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_platform	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+init	src/main.cpp	/^	ros::init(argc, argv, _name);$/;"	p	class:ros	file:	signature:(argc, argv, _name)
+init	ws_referee/src/main.cpp	/^  ros::init(argc, argv, _name);$/;"	p	class:ros	file:	signature:(argc, argv, _name)
+init_randomization_seed	include/ws_referee/randomize.h	/^void init_randomization_seed();$/;"	p	signature:()
+init_randomization_seed	src/randomize.cpp	/^void init_randomization_seed()$/;"	f	signature:()
+main	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^int main(int argc, char* argv[])$/;"	f	signature:(int argc, char* argv[])
+main	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f	signature:(int argc, char* argv[])
+main	src/main.cpp	/^int main(int argc, char **argv)$/;"	f	signature:(int argc, char **argv)
+main	ws_referee/src/main.cpp	/^int main(int argc, char **argv)$/;"	f	signature:(int argc, char **argv)
+message_operations	msg_gen/cpp/include/ws_referee/custom.h	/^namespace message_operations$/;"	n	namespace:ros
+message_traits	msg_gen/cpp/include/ws_referee/custom.h	/^namespace message_traits$/;"	n	namespace:ros
+msg_out	src/main.cpp	/^	ws_referee::custom msg_out;$/;"	l
+msg_out	ws_referee/src/main.cpp	/^  std_msgs::String msg_out;$/;"	l
+n	src/main.cpp	/^	ros::NodeHandle n;$/;"	l
+n	src/randomize.cpp	/^	double n = r*(n2-n1);$/;"	l
+n	ws_referee/src/main.cpp	/^  ros::NodeHandle n;$/;"	l
+n1	src/randomize.cpp	/^double n1 = 0;$/;"	l
+n2	src/randomize.cpp	/^double n2=0.3;$/;"	l
+next	msg_gen/cpp/include/ws_referee/custom.h	/^    stream.next(m.dist);$/;"	p	signature:(m.dist)
+next	msg_gen/cpp/include/ws_referee/custom.h	/^    stream.next(m.header);$/;"	p	signature:(m.header)
+next	msg_gen/cpp/include/ws_referee/custom.h	/^    stream.next(m.sender);$/;"	p	signature:(m.sender)
+next	msg_gen/cpp/include/ws_referee/custom.h	/^    stream.next(m.winner);$/;"	p	signature:(m.winner)
+operator <<	msg_gen/cpp/include/ws_referee/custom.h	/^std::ostream& operator<<(std::ostream& s, const  ::ws_referee::custom_<ContainerAllocator> & v)$/;"	f	namespace:ws_referee	signature:(std::ostream& s, const ::ws_referee::custom_<ContainerAllocator> & v)
+pub	src/main.cpp	/^	ros::Publisher pub = n.advertise<ws_referee::custom>("player_out", 1);$/;"	l
+pub	ws_referee/src/main.cpp	/^  ros::Publisher pub = n.advertise<std_msgs::String>("player_out", 1);$/;"	l
+publish	src/main.cpp	/^	pub.publish(msg_out);$/;"	p	file:	signature:(msg_out)
+publish	ws_referee/src/main.cpp	/^  pub.publish(msg_out);$/;"	p	file:	signature:(msg_out)
+python3	src/ws_referee/msg/_custom.py	/^python3 = True if sys.hexversion > 0x03000000 else False$/;"	v
+r	src/randomize.cpp	/^	double r = ((double)rand()\/((double)(RAND_MAX)+(double)(1)) );$/;"	l
+require	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^  int require = 0;$/;"	l
+require	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  int require = 0;$/;"	l
+ros	msg_gen/cpp/include/ws_referee/custom.h	/^namespace ros$/;"	n
+ros::init	src/main.cpp	/^	ros::init(argc, argv, _name);$/;"	p	class:ros	file:	signature:(argc, argv, _name)
+ros::init	ws_referee/src/main.cpp	/^  ros::init(argc, argv, _name);$/;"	p	class:ros	file:	signature:(argc, argv, _name)
+ros::message_operations	msg_gen/cpp/include/ws_referee/custom.h	/^namespace message_operations$/;"	n	namespace:ros
+ros::message_operations::Printer	msg_gen/cpp/include/ws_referee/custom.h	/^struct Printer< ::ws_referee::custom_<ContainerAllocator> >$/;"	s	namespace:ros::message_operations
+ros::message_operations::Printer::Printer::stream	msg_gen/cpp/include/ws_referee/custom.h	/^    Printer< ::std_msgs::Header_<ContainerAllocator> >::stream(s, indent + "  ", v.header);$/;"	p	class:ros::message_operations::Printer::Printer	signature:(s, indent + Ó, v.header)
+ros::message_operations::Printer::Printer::stream	msg_gen/cpp/include/ws_referee/custom.h	/^    Printer<float>::stream(s, indent + "  ", v.dist);$/;"	p	class:ros::message_operations::Printer::Printer	signature:(s, indent + Ó, v.dist)
+ros::message_operations::Printer::Printer::stream	msg_gen/cpp/include/ws_referee/custom.h	/^    Printer<std::basic_string<char, std::char_traits<char>, typename ContainerAllocator::template rebind<char>::other > >::stream(s, indent + "  ", v.sender);$/;"	p	class:ros::message_operations::Printer::Printer	signature:(s, indent + Ó, v.sender)
+ros::message_operations::Printer::Printer::stream	msg_gen/cpp/include/ws_referee/custom.h	/^    Printer<std::basic_string<char, std::char_traits<char>, typename ContainerAllocator::template rebind<char>::other > >::stream(s, indent + "  ", v.winner);$/;"	p	class:ros::message_operations::Printer::Printer	signature:(s, indent + Ó, v.winner)
+ros::message_operations::Printer::indent	msg_gen/cpp/include/ws_referee/custom.h	/^    s << indent << "dist: ";$/;"	l
+ros::message_operations::Printer::indent	msg_gen/cpp/include/ws_referee/custom.h	/^    s << indent << "header: ";$/;"	l
+ros::message_operations::Printer::indent	msg_gen/cpp/include/ws_referee/custom.h	/^    s << indent << "sender: ";$/;"	l
+ros::message_operations::Printer::indent	msg_gen/cpp/include/ws_referee/custom.h	/^    s << indent << "winner: ";$/;"	l
+ros::message_operations::Printer::std::endl	msg_gen/cpp/include/ws_referee/custom.h	/^s << std::endl;$/;"	m	class:ros::message_operations::Printer::std
+ros::message_operations::Printer::stream	msg_gen/cpp/include/ws_referee/custom.h	/^  template<typename Stream> static void stream(Stream& s, const std::string& indent, const  ::ws_referee::custom_<ContainerAllocator> & v) $/;"	f	struct:ros::message_operations::Printer	access:public	signature:(Stream& s, const std::string& indent, const ::ws_referee::custom_<ContainerAllocator> & v)
+ros::message_traits	msg_gen/cpp/include/ws_referee/custom.h	/^namespace message_traits$/;"	n	namespace:ros
+ros::message_traits::DataType	msg_gen/cpp/include/ws_referee/custom.h	/^struct DataType< ::ws_referee::custom_<ContainerAllocator> > {$/;"	s	namespace:ros::message_traits
+ros::message_traits::DataType::value	msg_gen/cpp/include/ws_referee/custom.h	/^  static const char* value() $/;"	f	struct:ros::message_traits::DataType	access:public	signature:()
+ros::message_traits::DataType::value	msg_gen/cpp/include/ws_referee/custom.h	/^  static const char* value(const  ::ws_referee::custom_<ContainerAllocator> &) { return value(); } $/;"	f	struct:ros::message_traits::DataType	access:public	signature:(const ::ws_referee::custom_<ContainerAllocator> &)
+ros::message_traits::Definition	msg_gen/cpp/include/ws_referee/custom.h	/^struct Definition< ::ws_referee::custom_<ContainerAllocator> > {$/;"	s	namespace:ros::message_traits
+ros::message_traits::Definition::value	msg_gen/cpp/include/ws_referee/custom.h	/^  static const char* value() $/;"	f	struct:ros::message_traits::Definition	access:public	signature:()
+ros::message_traits::Definition::value	msg_gen/cpp/include/ws_referee/custom.h	/^  static const char* value(const  ::ws_referee::custom_<ContainerAllocator> &) { return value(); } $/;"	f	struct:ros::message_traits::Definition	access:public	signature:(const ::ws_referee::custom_<ContainerAllocator> &)
+ros::message_traits::HasHeader	msg_gen/cpp/include/ws_referee/custom.h	/^template<class ContainerAllocator> struct HasHeader< ::ws_referee::custom_<ContainerAllocator> > : public TrueType {};$/;"	s	namespace:ros::message_traits	inherits:TrueType
+ros::message_traits::HasHeader	msg_gen/cpp/include/ws_referee/custom.h	/^template<class ContainerAllocator> struct HasHeader< const ::ws_referee::custom_<ContainerAllocator> > : public TrueType {};$/;"	s	namespace:ros::message_traits	inherits:TrueType
+ros::message_traits::IsMessage	msg_gen/cpp/include/ws_referee/custom.h	/^template<class ContainerAllocator> struct IsMessage< ::ws_referee::custom_<ContainerAllocator>  const> : public TrueType {};$/;"	s	namespace:ros::message_traits	inherits:TrueType
+ros::message_traits::IsMessage	msg_gen/cpp/include/ws_referee/custom.h	/^template<class ContainerAllocator> struct IsMessage< ::ws_referee::custom_<ContainerAllocator> > : public TrueType {};$/;"	s	namespace:ros::message_traits	inherits:TrueType
+ros::message_traits::MD5Sum	msg_gen/cpp/include/ws_referee/custom.h	/^struct MD5Sum< ::ws_referee::custom_<ContainerAllocator> > {$/;"	s	namespace:ros::message_traits
+ros::message_traits::MD5Sum::static_value1	msg_gen/cpp/include/ws_referee/custom.h	/^  static const uint64_t static_value1 = 0xa274b20521f839a6ULL;$/;"	m	struct:ros::message_traits::MD5Sum	access:public
+ros::message_traits::MD5Sum::static_value2	msg_gen/cpp/include/ws_referee/custom.h	/^  static const uint64_t static_value2 = 0x8edcb192a8ad2a15ULL;$/;"	m	struct:ros::message_traits::MD5Sum	access:public
+ros::message_traits::MD5Sum::value	msg_gen/cpp/include/ws_referee/custom.h	/^  static const char* value() $/;"	f	struct:ros::message_traits::MD5Sum	access:public	signature:()
+ros::message_traits::MD5Sum::value	msg_gen/cpp/include/ws_referee/custom.h	/^  static const char* value(const  ::ws_referee::custom_<ContainerAllocator> &) { return value(); } $/;"	f	struct:ros::message_traits::MD5Sum	access:public	signature:(const ::ws_referee::custom_<ContainerAllocator> &)
+ros::serialization	msg_gen/cpp/include/ws_referee/custom.h	/^namespace serialization$/;"	n	namespace:ros
+ros::serialization::Serializer	msg_gen/cpp/include/ws_referee/custom.h	/^template<class ContainerAllocator> struct Serializer< ::ws_referee::custom_<ContainerAllocator> >$/;"	s	namespace:ros::serialization
+ros::serialization::Serializer::ROS_DECLARE_ALLINONE_SERIALIZER	msg_gen/cpp/include/ws_referee/custom.h	/^  ROS_DECLARE_ALLINONE_SERIALIZER;$/;"	m	struct:ros::serialization::Serializer	access:public
+ros::serialization::Serializer::allInOne	msg_gen/cpp/include/ws_referee/custom.h	/^  template<typename Stream, typename T> inline static void allInOne(Stream& stream, T m)$/;"	f	struct:ros::serialization::Serializer	access:public	signature:(Stream& stream, T m)
+ros::serialization::Serializer::next	msg_gen/cpp/include/ws_referee/custom.h	/^    stream.next(m.dist);$/;"	p	signature:(m.dist)
+ros::serialization::Serializer::next	msg_gen/cpp/include/ws_referee/custom.h	/^    stream.next(m.header);$/;"	p	signature:(m.header)
+ros::serialization::Serializer::next	msg_gen/cpp/include/ws_referee/custom.h	/^    stream.next(m.sender);$/;"	p	signature:(m.sender)
+ros::serialization::Serializer::next	msg_gen/cpp/include/ws_referee/custom.h	/^    stream.next(m.winner);$/;"	p	signature:(m.winner)
+ros::spinOnce	src/main.cpp	/^	ros::spinOnce();$/;"	p	class:ros	file:	signature:()
+roslisp-msg-protocol:deserialize	msg_gen/lisp/custom.lisp	/^(cl:defmethod roslisp-msg-protocol:deserialize ((msg <custom>) istream)$/;"	f
+roslisp-msg-protocol:md5sum	msg_gen/lisp/custom.lisp	/^(cl:defmethod roslisp-msg-protocol:md5sum ((type (cl:eql '<custom>)))$/;"	f
+roslisp-msg-protocol:md5sum	msg_gen/lisp/custom.lisp	/^(cl:defmethod roslisp-msg-protocol:md5sum ((type (cl:eql 'custom)))$/;"	f
+roslisp-msg-protocol:message-definition	msg_gen/lisp/custom.lisp	/^(cl:defmethod roslisp-msg-protocol:message-definition ((type (cl:eql '<custom>)))$/;"	f
+roslisp-msg-protocol:message-definition	msg_gen/lisp/custom.lisp	/^(cl:defmethod roslisp-msg-protocol:message-definition ((type (cl:eql 'custom)))$/;"	f
+roslisp-msg-protocol:ros-datatype	msg_gen/lisp/custom.lisp	/^(cl:defmethod roslisp-msg-protocol:ros-datatype ((msg (cl:eql '<custom>)))$/;"	f
+roslisp-msg-protocol:ros-datatype	msg_gen/lisp/custom.lisp	/^(cl:defmethod roslisp-msg-protocol:ros-datatype ((msg (cl:eql 'custom)))$/;"	f
+roslisp-msg-protocol:ros-message-to-list	msg_gen/lisp/custom.lisp	/^(cl:defmethod roslisp-msg-protocol:ros-message-to-list ((msg <custom>))$/;"	f
+roslisp-msg-protocol:serialization-length	msg_gen/lisp/custom.lisp	/^(cl:defmethod roslisp-msg-protocol:serialization-length ((msg <custom>))$/;"	f
+roslisp-msg-protocol:serialize	msg_gen/lisp/custom.lisp	/^(cl:defmethod roslisp-msg-protocol:serialize ((msg <custom>) ostream)$/;"	f
+sender	msg_gen/cpp/include/ws_referee/custom.h	/^  std::basic_string<char, std::char_traits<char>, typename ContainerAllocator::template rebind<char>::other >  sender;$/;"	m	struct:ws_referee::custom_	access:public
+sender-val	msg_gen/lisp/custom.lisp	/^(cl:defmethod sender-val ((m <custom>))$/;"	f
+serialization	msg_gen/cpp/include/ws_referee/custom.h	/^namespace serialization$/;"	n	namespace:ros
+serialize	src/ws_referee/msg/_custom.py	/^  def serialize(self, buff):$/;"	f	access:public
+serialize_numpy	src/ws_referee/msg/_custom.py	/^  def serialize_numpy(self, buff, numpy):$/;"	f	access:public
+sleep	src/main.cpp	/^	loop_rate.sleep();$/;"	p	file:	signature:()
+spinOnce	src/main.cpp	/^	ros::spinOnce();$/;"	p	class:ros	file:	signature:()
+static_value1	msg_gen/cpp/include/ws_referee/custom.h	/^  static const uint64_t static_value1 = 0xa274b20521f839a6ULL;$/;"	m	struct:ros::message_traits::MD5Sum	access:public
+static_value2	msg_gen/cpp/include/ws_referee/custom.h	/^  static const uint64_t static_value2 = 0x8edcb192a8ad2a15ULL;$/;"	m	struct:ros::message_traits::MD5Sum	access:public
+stream	msg_gen/cpp/include/ws_referee/custom.h	/^    Printer< ::std_msgs::Header_<ContainerAllocator> >::stream(s, indent + "  ", v.header);$/;"	p	class:ros::message_operations::Printer::Printer	signature:(s, indent + Ó, v.header)
+stream	msg_gen/cpp/include/ws_referee/custom.h	/^    Printer<float>::stream(s, indent + "  ", v.dist);$/;"	p	class:ros::message_operations::Printer::Printer	signature:(s, indent + Ó, v.dist)
+stream	msg_gen/cpp/include/ws_referee/custom.h	/^    Printer<std::basic_string<char, std::char_traits<char>, typename ContainerAllocator::template rebind<char>::other > >::stream(s, indent + "  ", v.sender);$/;"	p	class:ros::message_operations::Printer::Printer	signature:(s, indent + Ó, v.sender)
+stream	msg_gen/cpp/include/ws_referee/custom.h	/^    Printer<std::basic_string<char, std::char_traits<char>, typename ContainerAllocator::template rebind<char>::other > >::stream(s, indent + "  ", v.winner);$/;"	p	class:ros::message_operations::Printer::Printer	signature:(s, indent + Ó, v.winner)
+stream	msg_gen/cpp/include/ws_referee/custom.h	/^  ros::message_operations::Printer< ::ws_referee::custom_<ContainerAllocator> >::stream(s, "", v);$/;"	p	class:ws_referee::ros::message_operations::Printer	signature:(s, Ó, v)
+stream	msg_gen/cpp/include/ws_referee/custom.h	/^  template<typename Stream> static void stream(Stream& s, const std::string& indent, const  ::ws_referee::custom_<ContainerAllocator> & v) $/;"	f	struct:ros::message_operations::Printer	access:public	signature:(Stream& s, const std::string& indent, const ::ws_referee::custom_<ContainerAllocator> & v)
+time	src/randomize.cpp	/^	srand(time(NULL));$/;"	p	file:	signature:(NULL)
+value	msg_gen/cpp/include/ws_referee/custom.h	/^  static const char* value() $/;"	f	struct:ros::message_traits::DataType	access:public	signature:()
+value	msg_gen/cpp/include/ws_referee/custom.h	/^  static const char* value() $/;"	f	struct:ros::message_traits::Definition	access:public	signature:()
+value	msg_gen/cpp/include/ws_referee/custom.h	/^  static const char* value() $/;"	f	struct:ros::message_traits::MD5Sum	access:public	signature:()
+value	msg_gen/cpp/include/ws_referee/custom.h	/^  static const char* value(const  ::ws_referee::custom_<ContainerAllocator> &) { return value(); } $/;"	f	struct:ros::message_traits::DataType	access:public	signature:(const ::ws_referee::custom_<ContainerAllocator> &)
+value	msg_gen/cpp/include/ws_referee/custom.h	/^  static const char* value(const  ::ws_referee::custom_<ContainerAllocator> &) { return value(); } $/;"	f	struct:ros::message_traits::Definition	access:public	signature:(const ::ws_referee::custom_<ContainerAllocator> &)
+value	msg_gen/cpp/include/ws_referee/custom.h	/^  static const char* value(const  ::ws_referee::custom_<ContainerAllocator> &) { return value(); } $/;"	f	struct:ros::message_traits::MD5Sum	access:public	signature:(const ::ws_referee::custom_<ContainerAllocator> &)
+winner	msg_gen/cpp/include/ws_referee/custom.h	/^  std::basic_string<char, std::char_traits<char>, typename ContainerAllocator::template rebind<char>::other >  winner;$/;"	m	struct:ws_referee::custom_	access:public
+winner-val	msg_gen/lisp/custom.lisp	/^(cl:defmethod winner-val ((m <custom>))$/;"	f
+ws_referee	msg_gen/cpp/include/ws_referee/custom.h	/^namespace ws_referee$/;"	n
+ws_referee-msg	msg_gen/lisp/_package.lisp	/^(cl:defpackage ws_referee-msg$/;"	f
+ws_referee::custom	msg_gen/cpp/include/ws_referee/custom.h	/^typedef  ::ws_referee::custom_<std::allocator<void> > custom;$/;"	t	namespace:ws_referee
+ws_referee::customConstPtr	msg_gen/cpp/include/ws_referee/custom.h	/^typedef boost::shared_ptr< ::ws_referee::custom const> customConstPtr;$/;"	t	namespace:ws_referee
+ws_referee::customPtr	msg_gen/cpp/include/ws_referee/custom.h	/^typedef boost::shared_ptr< ::ws_referee::custom> customPtr;$/;"	t	namespace:ws_referee
+ws_referee::custom_	msg_gen/cpp/include/ws_referee/custom.h	/^struct custom_ {$/;"	s	namespace:ws_referee
+ws_referee::custom_::ConstPtr	msg_gen/cpp/include/ws_referee/custom.h	/^  typedef boost::shared_ptr< ::ws_referee::custom_<ContainerAllocator>  const> ConstPtr;$/;"	t	struct:ws_referee::custom_	access:public
+ws_referee::custom_::Ptr	msg_gen/cpp/include/ws_referee/custom.h	/^  typedef boost::shared_ptr< ::ws_referee::custom_<ContainerAllocator> > Ptr;$/;"	t	struct:ws_referee::custom_	access:public
+ws_referee::custom_::Type	msg_gen/cpp/include/ws_referee/custom.h	/^  typedef custom_<ContainerAllocator> Type;$/;"	t	struct:ws_referee::custom_	access:public
+ws_referee::custom_::__connection_header	msg_gen/cpp/include/ws_referee/custom.h	/^  boost::shared_ptr<std::map<std::string, std::string> > __connection_header;$/;"	m	struct:ws_referee::custom_	access:public
+ws_referee::custom_::_dist_type	msg_gen/cpp/include/ws_referee/custom.h	/^  typedef float _dist_type;$/;"	t	struct:ws_referee::custom_	access:public
+ws_referee::custom_::_header_type	msg_gen/cpp/include/ws_referee/custom.h	/^  typedef  ::std_msgs::Header_<ContainerAllocator>  _header_type;$/;"	t	struct:ws_referee::custom_	access:public
+ws_referee::custom_::_sender_type	msg_gen/cpp/include/ws_referee/custom.h	/^  typedef std::basic_string<char, std::char_traits<char>, typename ContainerAllocator::template rebind<char>::other >  _sender_type;$/;"	t	struct:ws_referee::custom_	access:public
+ws_referee::custom_::_winner_type	msg_gen/cpp/include/ws_referee/custom.h	/^  typedef std::basic_string<char, std::char_traits<char>, typename ContainerAllocator::template rebind<char>::other >  _winner_type;$/;"	t	struct:ws_referee::custom_	access:public
+ws_referee::custom_::custom_	msg_gen/cpp/include/ws_referee/custom.h	/^  custom_()$/;"	f	struct:ws_referee::custom_	access:public	signature:()
+ws_referee::custom_::custom_	msg_gen/cpp/include/ws_referee/custom.h	/^  custom_(const ContainerAllocator& _alloc)$/;"	f	struct:ws_referee::custom_	access:public	signature:(const ContainerAllocator& _alloc)
+ws_referee::custom_::dist	msg_gen/cpp/include/ws_referee/custom.h	/^  float dist;$/;"	m	struct:ws_referee::custom_	access:public
+ws_referee::custom_::header	msg_gen/cpp/include/ws_referee/custom.h	/^   ::std_msgs::Header_<ContainerAllocator>  header;$/;"	m	struct:ws_referee::custom_	access:public
+ws_referee::custom_::sender	msg_gen/cpp/include/ws_referee/custom.h	/^  std::basic_string<char, std::char_traits<char>, typename ContainerAllocator::template rebind<char>::other >  sender;$/;"	m	struct:ws_referee::custom_	access:public
+ws_referee::custom_::winner	msg_gen/cpp/include/ws_referee/custom.h	/^  std::basic_string<char, std::char_traits<char>, typename ContainerAllocator::template rebind<char>::other >  winner;$/;"	m	struct:ws_referee::custom_	access:public
+ws_referee::operator <<	msg_gen/cpp/include/ws_referee/custom.h	/^std::ostream& operator<<(std::ostream& s, const  ::ws_referee::custom_<ContainerAllocator> & v)$/;"	f	namespace:ws_referee	signature:(std::ostream& s, const ::ws_referee::custom_<ContainerAllocator> & v)
+ws_referee::ros::message_operations::Printer::stream	msg_gen/cpp/include/ws_referee/custom.h	/^  ros::message_operations::Printer< ::ws_referee::custom_<ContainerAllocator> >::stream(s, "", v);$/;"	p	class:ws_referee::ros::message_operations::Printer	signature:(s, Ó, v)

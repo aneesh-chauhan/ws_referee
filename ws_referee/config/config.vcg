@@ -6,10 +6,10 @@ Axes.Enabled=1
 Axes.Length=1
 Axes.Radius=0.1
 Axes.Reference\ Frame=<Fixed Frame>
-Background\ ColorB=1
-Background\ ColorG=1
-Background\ ColorR=1
-Camera\ Config=50.4944 0.121884 -0.632485 -1.57
+Background\ ColorB=0.823529
+Background\ ColorG=0.839216
+Background\ ColorR=0.847059
+Camera\ Config=119.061 -3.68568 0.280131 -1.525
 Camera\ Type=rviz::FixedOrientationOrthoViewController
 Fixed\ Frame=/world
 GiHyunMarker.=1
@@ -39,12 +39,21 @@ MikeMarker.=1
 MikeMarker.Enabled=1
 MikeMarker.Marker\ Topic=/mike_marker
 MikeMarker.Queue\ Size=100
+PauloMarker.=1
 PauloMarker.Enabled=1
 PauloMarker.Marker\ Topic=/paulo_marker
 PauloMarker.Queue\ Size=100
 Property\ Grid\ Splitter=409,78
-Property\ Grid\ State=expanded=.Global Options;splitterratio=0.5
+Property\ Grid\ State=expanded=.Global Options,MikeMarker.Enabled,TF.Enabled;splitterratio=0.5
 QMainWindow=000000ff00000000fd00000003000000000000011d00000239fc0200000001fb000000100044006900730070006c006100790073010000003600000239000000ee00ffffff000000010000013100000239fc0200000003fb0000001e0054006f006f006c002000500072006f00700065007200740069006500730000000036000000920000006700fffffffb0000000a00560069006500770073000000003600000239000000bb00fffffffb0000001200530065006c0065006300740069006f006e00000000360000023a0000006700ffffff00000003000003fe0000003efc0100000001fb0000000800540069006d00650100000000000003fe000002bf00ffffff000002db0000023900000004000000040000000800000008fc0000000100000002000000010000000a0054006f006f006c00730100000000ffffffff0000000000000000
+TF.All\ Enabled=1
+TF.Enabled=1
+TF.Frame\ Timeout=15
+TF.Marker\ Scale=3
+TF.Show\ Arrows=0
+TF.Show\ Axes=1
+TF.Show\ Names=1
+TF.Update\ Interval=0
 Target\ Frame=<Fixed Frame>
 Tool\ 2D\ Nav\ GoalTopic=/move_base_simple/goal
 Tool\ 2D\ Pose\ EstimateTopic=initialpose
@@ -76,8 +85,15 @@ Name=PauloMarker
 [Display7]
 ClassName=rviz::MarkerDisplay
 Name=AneeshMarker
+[Display8]
+ClassName=rviz::TFDisplay
+Name=TF
+[TF.Frames.]
+tf_mike.Enabled=1
+tf_tmpmike.Enabled=1
+world.Enabled=1
 [Window]
 Height=720
 Width=1024
-X=-8
-Y=-224
+X=-19
+Y=-532

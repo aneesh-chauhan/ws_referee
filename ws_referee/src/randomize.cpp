@@ -13,7 +13,20 @@ void init_randomization_seed()
 double get_random_num()
 {
 double n1 = 0;
-double n2=0.1;
+double n2=0.3;
+	//get random number between 0 and 1
+	double r = ((double)rand()/((double)(RAND_MAX)+(double)(1)) );
+
+	double n = r*(n2-n1);
+	n += n1;
+
+	return n;
+}
+
+double get_random_deg()
+{
+double n1 = -5;
+double n2=5;
 	//get random number between 0 and 1
 	double r = ((double)rand()/((double)(RAND_MAX)+(double)(1)) );
 
